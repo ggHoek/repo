@@ -4,26 +4,22 @@
 
 Este es el home de las oraciones, publicado cada semana.
 
-- [[Oraciones/Persona 1\|Persona 1]]: No se ha sentido bien, debido a una situación que la tiene muy delicada. Ha pedido que oren por ella para que se mejore.
-
-- [[Oraciones/Persona 2\|Persona 2]]: No se ha sentido bien, debido a una situación que la tiene muy delicada. Ha pedido que oren por ella para que se mejore.
-
-- [[Oraciones/Persona 3\|Persona 3]]: No se ha sentido bien, debido a una situación que la tiene muy delicada. Ha pedido que oren por ella para que se mejore.
-
-
-Cosas por probar: 
-- Callouts
-- Dataview
-- Banner?
-
-> [!caution] Actualizaciones 
->  | Nombre                                | 🏁 |
-> | ------------------------------------- | -- |
-> | [[Welcome\|Welcome]]               | \- |
-> | [[Oraciones/Inicio\|Inicio]]       | \- |
-> | [[Oraciones/Persona 1\|Persona 1]] | \- |
-> | [[Oraciones/Persona 2\|Persona 2]] | \- |
-> | [[Oraciones/Persona 3\|Persona 3]] | \- |
+> [!tldr] MURO 
+>  | Nombre                                | Resumen              | Actualizado             |
+> | ------------------------------------- | -------------------- | ----------------------- |
+> | [[Oraciones/Persona 1\|Persona 1]] | Biopsia, mejorando   | 4:46 AM - June 02, 2024 |
+> | [[Oraciones/Persona 2\|Persona 2]] | En reposo por caída. | 4:51 AM - May 27, 2024  |
 > 
 { .block-language-dataview}
+
+> [!tip] FIJO 
+>  | Nombre                                | Resumen          | Actualizado            |
+> | ------------------------------------- | ---------------- | ---------------------- |
+> | [[Oraciones/Persona 3\|Persona 3]] | Anciana delicada | 4:52 AM - May 08, 2024 |
+> 
+{ .block-language-dataview}
+
+- Banner?
+
+
 
