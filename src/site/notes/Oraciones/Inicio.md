@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/oraciones/inicio/","tags":["gardenEntry"]}
 ---
 
-Este es el home de las oraciones, publicado cada semana.
-
 > [!tldr] MURO 
 >  | Nombre                                          | Resumen              | Actualizado             |
 > | ----------------------------------------------- | -------------------- | ----------------------- |
@@ -18,8 +16,6 @@ Este es el home de las oraciones, publicado cada semana.
 > | [[Oraciones/Persona 3\|Persona 3]] | Anciana delicada | 4:52 AM - May 08, 2024 |
 > 
 { .block-language-dataview}
-
-- Banner?
 
 
 
