@@ -3,6 +3,7 @@
 ---
 
 Área:: Ciudad de México
+- - -
 ## Historial
 - [[Diario/05-May-24\|05-May-24]]
 	- Tristemente el Sr. Maclovio fue encontrado sin vida. Por favor orar por la familia para que en esta pérdida encuentren consuelo y resignación de lo alto. Muchas gracias.
