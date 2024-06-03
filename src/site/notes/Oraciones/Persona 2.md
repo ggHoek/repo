@@ -3,4 +3,4 @@
 ---
 
 
-- [[2024-05-05\|2024-05-05]]: Pide por su trabajo
+- [[Diario/2024-05-05\|2024-05-05]]: Pide por su trabajo
