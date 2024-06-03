@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oraciones/inicio/","tags":["gardenEntry"],"noteIcon":""}
+{"dg-publish":true,"permalink":"/oraciones/inicio/","tags":["gardenEntry"]}
 ---
 
 Este es el home de las oraciones, publicado cada semana.
