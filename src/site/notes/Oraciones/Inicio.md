@@ -3,20 +3,18 @@
 ---
 
 > [!tldr] MURO 
->  | Nombre                                                            | Resumen               | Actualizado             |
-> | ----------------------------------------------------------------- | --------------------- | ----------------------- |
-> | [[Oraciones/Persona 2\|Persona 2]]                             | En reposo por caída.  | 4:51 AM - May 27, 2024  |
-> | [[Oraciones/Juan Gutiérrez\|Juan Gutiérrez]]                   | Biopsia, mejorando    | 4:46 AM - June 02, 2024 |
-> | [[Oraciones/Maclovio Galeote Correa\|Maclovio Galeote Correa]] | Se encontró sin vida. | 6:00 AM - May 20, 2024  |
+>  | Nombre                                                            | Resumen               | Actualizado | Área             |
+> | ----------------------------------------------------------------- | --------------------- | ----------- | ---------------- |
+> | [[Oraciones/Juan Gutiérrez\|Juan Gutiérrez]]                   | Biopsia, mejorando    | 06 Jun 24   | Ciudad de México |
+> | [[Oraciones/Maclovio Galeote Correa\|Maclovio Galeote Correa]] | Se encontró sin vida. | 05 May 24   | Ciudad de México |
 > 
 { .block-language-dataview}
 
 > [!tip] FIJO 
->  | Nombre                                | Resumen          | Actualizado            |
-> | ------------------------------------- | ---------------- | ---------------------- |
-> | [[Oraciones/Persona 3\|Persona 3]] | Anciana delicada | 4:52 AM - May 08, 2024 |
+>  | Nombre                      | Resumen                        | Actualizado | Área             |
+> | --------------------------- | ------------------------------ | ----------- | ---------------- |
+> | [[Elisa Gil\|Elisa Gil]] | Anciana que sufre de depresión | 04 Apr 24   | Ciudad de México |
 > 
 { .block-language-dataview}
-
 
 
