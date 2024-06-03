@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/oraciones/persona-3/","noteIcon":""}
+{"dg-publish":true,"permalink":"/oraciones/persona-3/"}
 ---
 
 
