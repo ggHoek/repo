@@ -11,9 +11,9 @@
 { .block-language-dataview}
 
 > [!tip] FIJO 
->  | Nombre                      | Resumen                        | Actualizado | Área             |
-> | --------------------------- | ------------------------------ | ----------- | ---------------- |
-> | [[Elisa Gil\|Elisa Gil]] | Anciana que sufre de depresión | 04 Apr 24   | Ciudad de México |
+>  | Nombre                                | Resumen                        | Actualizado | Área             |
+> | ------------------------------------- | ------------------------------ | ----------- | ---------------- |
+> | [[Oraciones/Elisa Gil\|Elisa Gil]] | Anciana que sufre de depresión | 04 Apr 24   | Ciudad de México |
 > 
 { .block-language-dataview}
 
