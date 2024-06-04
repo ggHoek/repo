@@ -6,5 +6,5 @@
 - - -
 ## Historial
 
-- [[Diario/03-Jun-24\|03-Jun-24]]
+- [[Diario/2024-06-03\|2024-06-03]]
 	- Está mucho mejor. 
