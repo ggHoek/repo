@@ -5,5 +5,5 @@
 Área:: Ciudad de México
 - - -
 ## Historial
-- [[06-Jun-2024\|hola]]
+- [[06-Jun-2024\|06-Jun-2024]]
 	- 
